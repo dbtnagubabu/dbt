@@ -1,0 +1,1 @@
+ select *from dbt_database.data.stg_table1;
